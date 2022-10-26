@@ -154,7 +154,23 @@
   &emsp;
 </p>
 
-## Connect with me:
+## 📊 Github Stats
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  
+  <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Gwe2B&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gwe2B&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+<br/>
+
+## 🙋‍♀️ Connect with me:
 <p align="center">
 <a href="https://codepen.io/gwe2b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gwe2b" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gwenaël guiraud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gwenaël guiraud" height="30" width="40" /></a>
