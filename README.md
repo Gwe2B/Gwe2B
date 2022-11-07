@@ -5,6 +5,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gwe2B&label=Profile+views&color=green&style=for-the-badge" alt="Gwenaël Guiraud" /> </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/fr.svg" alt="French" height="32" />
+  &emsp;
+  <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/gb.svg" alt="English" height="32" />
+  &emsp;
+  <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/es.svg" alt="Spain" height="32" />
+</p>
+
 # 🛠️ My skills
 ## Languages
 <p align="left"> 
@@ -89,13 +97,13 @@
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a>
-    <a href="#" target="_blank" rel="noneferrer">
-      <img src="#" alt="Neo4J" width="40" height="40" />
+    <a href="https://neo4j.com/" target="_blank" rel="noneferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4J" width="40" height="40" />
     </a>
   &emsp;
 </p>
 
-## Devops
+## DevOps
 <p align="left">
     &emsp;
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -155,9 +163,6 @@
 </p>
 
 ## 📊 Github Stats
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
   
   <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 
@@ -167,7 +172,6 @@
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
 <br/>
 
 ## 🙋‍♀️ Connect with me:
