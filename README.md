@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gwenaël Guiraud</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1100&center=true&width=450&lines=Full+Stack+Developement+student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gwe2B&label=Profile+views&color=green&style=for-the-badge" alt="Gwenaël Guiraud" /> </p>
@@ -45,7 +45,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
-  &emsp;
+  <!--&emsp;
       <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
     </a>
@@ -56,7 +56,7 @@
     &emsp;
     <a href="https://dart.dev/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-    </a>
+    </a>-->
 </p>
 
 ## Front-end development
@@ -73,23 +73,23 @@
     <a href="https://angular.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
     </a>
-    &emsp;
+    <!--&emsp;
     <a href="https://en.reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a> 
     &emsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    </a> 
+    </a>--> 
     &emsp;
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
-    &emsp;
+    <!--&emsp;
         <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
     </a>
-    &emsp;
+    &emsp;-->
 </p>
 
 ## Back-end development
@@ -98,17 +98,17 @@
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" width="40" height="40"/>
     </a>
-    &emsp;
+    <!--&emsp;
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40" height="40"/>
-    </a>
+    </a>-->
     &emsp;
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     </a>
 </p>
 
-## Mobile development
+<!--## Mobile development
 <p align="left">
     &emsp;
     <a href="https://www.android.com/intl/fr_fr/" target="_blank" rel="noreferrer">
@@ -119,7 +119,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
     </a>
     &emsp;
-</p>
+</p>-->
 
 ## Database
 <p align="left">
@@ -178,8 +178,8 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
     &emsp;
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    &emsp;
+    <!--<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+    &emsp;-->
 </p>
 
 ## Other
